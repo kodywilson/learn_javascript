@@ -21,4 +21,7 @@ console.log(pie);
 
 var a;
 var b = 2;
-console.log("a = " + a + "and b = " + b);
+console.log("a = " + a + " and b = " + b);
+a = 7;
+b = a;
+console.log("a = " + a + " and b = " + b);
